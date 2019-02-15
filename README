@@ -1,0 +1,6 @@
+make config
+make dep
+make
+cd dlx;bochs: copy files to c.img
+bochs
+
